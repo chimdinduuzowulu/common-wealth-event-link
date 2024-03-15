@@ -7,7 +7,7 @@ function Header() {
   return (
     <>
       <div
-        className="bg-contain bg-center bg-top md:bg-cover md:bg-no-repeat w-full h-[500px] md:h-[840px]"
+        className="bg-cover bg-center md:bg-center md:bg-cover bg-no-repeat w-full h-[350px] md:h-[840px]"
         style={{ backgroundImage: `url(${dsnImage})` }}
       >
         <div className="w-full h-full bg-[rgba(0,0,0,0.35)]">
