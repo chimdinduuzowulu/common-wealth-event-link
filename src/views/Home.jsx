@@ -21,6 +21,7 @@ function Home() {
                   </a>
                 </dt>
               </div> */}
+
               <div className="border-t border-gray-200 pt-4 flex flex-row gap-6">
                 <dd className="bg-[#00a1e2] rounded-lg h-6 w-6 "></dd>
                 <dt className="font-medium text-gray-900 hover:cursor-pointer">
@@ -42,6 +43,18 @@ function Home() {
                   >
                     {" "}
                     Wootlab foundation's impact
+                  </a>
+                </dt>
+              </div>
+              <div className="border-t border-gray-200 pt-4 flex flex-row gap-6">
+                <dd className="bg-[#00a1e2] rounded-lg h-6 w-6"></dd>
+                <dt className="font-medium text-gray-900 hover:cursor-pointer">
+                  <a
+                    href="https://drive.google.com/file/d/1H7gUl8lVv46hjbohMK1u-0WeDfM-kW9g/view?usp=sharing"
+                    target="_blank"
+                  >
+                    {" "}
+                    Documentary on Wootlab’s initiatives and success stories
                   </a>
                 </dt>
               </div>
